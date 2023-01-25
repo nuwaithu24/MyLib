@@ -1,7 +1,7 @@
 {
   "name": "MyLib",
   "version": "0.1.0",
-  "summary": "A short description of MyLib.",
+  "summary": "Success MyLib.",
   "description": "TODO: Add long description of the pod here.",
   "homepage": "https://github.com/nuwaithu24/MyLib",
   "license": {
@@ -15,8 +15,10 @@
     "git": "https://github.com/nuwaithu24/MyLib.git",
     "tag": "0.1.0"
   },
+  "swift_versions": "5.0",
   "platforms": {
-    "ios": "10.0"
+    "ios": "11.0"
   },
-  "source_files": "MyLib/Classes/**/*"
+  "source_files": "MyLib/Classes",
+  "swift_version": "5.0"
 }
