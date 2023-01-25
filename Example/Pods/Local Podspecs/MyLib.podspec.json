@@ -1,0 +1,22 @@
+{
+  "name": "MyLib",
+  "version": "0.1.0",
+  "summary": "A short description of MyLib.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/nuwaithu24/MyLib",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "nuwaithu24": "nuwaithu90@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/nuwaithu24/MyLib.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "MyLib/Classes/**/*"
+}

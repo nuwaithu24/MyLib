@@ -7,11 +7,15 @@
 //
 
 import UIKit
+import MyLib
 
 class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
+        
+        let lib = Logger()
+        lib.outPutText(text: "Need to Success")
         // Do any additional setup after loading the view, typically from a nib.
     }
 
