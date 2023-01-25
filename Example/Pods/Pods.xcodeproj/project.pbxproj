@@ -48,14 +48,14 @@
 		3F7D9FF08016B68ED38D65092F19D047 /* Pods-MyLib_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-MyLib_Example.debug.xcconfig"; sourceTree = "<group>"; };
 		4ECF7D78264C1340B059D5B08D16ABD3 /* MyLib.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; path = MyLib.podspec; sourceTree = "<group>"; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		53971CBF30966FDE0044329E8D098291 /* Pods-MyLib_Tests-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-MyLib_Tests-umbrella.h"; sourceTree = "<group>"; };
-		6533E237BA68936072192A5E5918251F /* MyLib */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = MyLib; path = MyLib.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		6533E237BA68936072192A5E5918251F /* MyLib.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = MyLib.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		6F7F0B2F568027607704CA0457BABF21 /* Pods-MyLib_Tests-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-MyLib_Tests-Info.plist"; sourceTree = "<group>"; };
 		73010CC983E3809BECEE5348DA1BB8C6 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS14.0.sdk/System/Library/Frameworks/Foundation.framework; sourceTree = DEVELOPER_DIR; };
 		766DB2931BDC261A36A2BC04C538D894 /* Pods-MyLib_Example-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-MyLib_Example-Info.plist"; sourceTree = "<group>"; };
 		80CA697C1F6A585877AC2CF28A68F841 /* Pods-MyLib_Example-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-MyLib_Example-acknowledgements.markdown"; sourceTree = "<group>"; };
 		87FF0DCD69D19A926E76B2EF8E63A2DD /* Pods-MyLib_Example-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-MyLib_Example-frameworks.sh"; sourceTree = "<group>"; };
 		90380227805A72C7C95907DAE139A876 /* Pods-MyLib_Tests-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-MyLib_Tests-acknowledgements.markdown"; sourceTree = "<group>"; };
-		9B8652D9DEFB5DDF51C30E488DFEF32D /* Pods-MyLib_Tests */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = "Pods-MyLib_Tests"; path = Pods_MyLib_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		9B8652D9DEFB5DDF51C30E488DFEF32D /* Pods_MyLib_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_MyLib_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		9D940727FF8FB9C785EB98E56350EF41 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		ACC2A60777213A2DAA0918A59C2D1578 /* Pods-MyLib_Example-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-MyLib_Example-umbrella.h"; sourceTree = "<group>"; };
 		B14529C688A314913A2683DFA1F0BA70 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
@@ -64,7 +64,7 @@
 		C508D8A84F6B305D009B9BF736FBF0ED /* Pods-MyLib_Tests.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-MyLib_Tests.modulemap"; sourceTree = "<group>"; };
 		CD397305B4EF27C2E7CED44DF31EF8C6 /* MyLib.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = MyLib.modulemap; sourceTree = "<group>"; };
 		D6FF5DC73AC2FC0169D7BE36E08B546A /* Pods-MyLib_Tests-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-MyLib_Tests-acknowledgements.plist"; sourceTree = "<group>"; };
-		DA1701AFC398D34CA832A548A7482AAE /* Pods-MyLib_Example */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = "Pods-MyLib_Example"; path = Pods_MyLib_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		DA1701AFC398D34CA832A548A7482AAE /* Pods_MyLib_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_MyLib_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		DD2FDA95E7848A93348ADD6BEDE2414A /* MyLib-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "MyLib-dummy.m"; sourceTree = "<group>"; };
 		E1459850670887B5C8FE50412A7870A2 /* Pods-MyLib_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-MyLib_Example.release.xcconfig"; sourceTree = "<group>"; };
 		E4C78A276FB6F21D335FA1A351D3A433 /* Pods-MyLib_Tests-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-MyLib_Tests-dummy.m"; sourceTree = "<group>"; };
@@ -155,9 +155,9 @@
 		76860E1D982B4EE412551764A6F1D876 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				6533E237BA68936072192A5E5918251F /* MyLib */,
-				DA1701AFC398D34CA832A548A7482AAE /* Pods-MyLib_Example */,
-				9B8652D9DEFB5DDF51C30E488DFEF32D /* Pods-MyLib_Tests */,
+				6533E237BA68936072192A5E5918251F /* MyLib.framework */,
+				DA1701AFC398D34CA832A548A7482AAE /* Pods_MyLib_Example.framework */,
+				9B8652D9DEFB5DDF51C30E488DFEF32D /* Pods_MyLib_Tests.framework */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -269,7 +269,7 @@
 			);
 			name = "Pods-MyLib_Example";
 			productName = Pods_MyLib_Example;
-			productReference = DA1701AFC398D34CA832A548A7482AAE /* Pods-MyLib_Example */;
+			productReference = DA1701AFC398D34CA832A548A7482AAE /* Pods_MyLib_Example.framework */;
 			productType = "com.apple.product-type.framework";
 		};
 		D19070F549C404143C4444755161EC8C /* MyLib */ = {
@@ -287,7 +287,7 @@
 			);
 			name = MyLib;
 			productName = MyLib;
-			productReference = 6533E237BA68936072192A5E5918251F /* MyLib */;
+			productReference = 6533E237BA68936072192A5E5918251F /* MyLib.framework */;
 			productType = "com.apple.product-type.framework";
 		};
 		D2A8B3AF22E6AEBE1AD541F335133574 /* Pods-MyLib_Tests */ = {
@@ -306,7 +306,7 @@
 			);
 			name = "Pods-MyLib_Tests";
 			productName = Pods_MyLib_Tests;
-			productReference = 9B8652D9DEFB5DDF51C30E488DFEF32D /* Pods-MyLib_Tests */;
+			productReference = 9B8652D9DEFB5DDF51C30E488DFEF32D /* Pods_MyLib_Tests.framework */;
 			productType = "com.apple.product-type.framework";
 		};
 /* End PBXNativeTarget section */
@@ -422,7 +422,7 @@
 				DYLIB_INSTALL_NAME_BASE = "@rpath";
 				INFOPLIST_FILE = "Target Support Files/Pods-MyLib_Tests/Pods-MyLib_Tests-Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				MACH_O_TYPE = staticlib;
 				MODULEMAP_FILE = "Target Support Files/Pods-MyLib_Tests/Pods-MyLib_Tests.modulemap";
@@ -455,7 +455,7 @@
 				DYLIB_INSTALL_NAME_BASE = "@rpath";
 				INFOPLIST_FILE = "Target Support Files/Pods-MyLib_Example/Pods-MyLib_Example-Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				MACH_O_TYPE = staticlib;
 				MODULEMAP_FILE = "Target Support Files/Pods-MyLib_Example/Pods-MyLib_Example.modulemap";
@@ -488,7 +488,7 @@
 				GCC_PREFIX_HEADER = "Target Support Files/MyLib/MyLib-prefix.pch";
 				INFOPLIST_FILE = "Target Support Files/MyLib/MyLib-Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				MODULEMAP_FILE = "Target Support Files/MyLib/MyLib.modulemap";
 				PRODUCT_MODULE_NAME = MyLib;
@@ -554,7 +554,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
 				MTL_ENABLE_DEBUG_INFO = NO;
 				MTL_FAST_MATH = YES;
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -581,7 +581,7 @@
 				DYLIB_INSTALL_NAME_BASE = "@rpath";
 				INFOPLIST_FILE = "Target Support Files/Pods-MyLib_Example/Pods-MyLib_Example-Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				MACH_O_TYPE = staticlib;
 				MODULEMAP_FILE = "Target Support Files/Pods-MyLib_Example/Pods-MyLib_Example.modulemap";
@@ -615,7 +615,7 @@
 				GCC_PREFIX_HEADER = "Target Support Files/MyLib/MyLib-prefix.pch";
 				INFOPLIST_FILE = "Target Support Files/MyLib/MyLib-Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				MODULEMAP_FILE = "Target Support Files/MyLib/MyLib.modulemap";
 				PRODUCT_MODULE_NAME = MyLib;
@@ -683,7 +683,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
 				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
 				MTL_FAST_MATH = YES;
 				ONLY_ACTIVE_ARCH = YES;
@@ -712,7 +712,7 @@
 				DYLIB_INSTALL_NAME_BASE = "@rpath";
 				INFOPLIST_FILE = "Target Support Files/Pods-MyLib_Tests/Pods-MyLib_Tests-Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				MACH_O_TYPE = staticlib;
 				MODULEMAP_FILE = "Target Support Files/Pods-MyLib_Tests/Pods-MyLib_Tests.modulemap";
