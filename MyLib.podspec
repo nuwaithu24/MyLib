@@ -33,7 +33,7 @@ TODO: Add long description of the pod here.
   s.source_files = 'MyLib/Classes/**/*'
   s.resources = 'MyLib/Assets/*'
   s.resource_bundles = {
-     'MyLib' => ['MyLib/Assets/{PodStoryBoard.storyboard,bgImage.png,acceptCall.png,endCall}']
+     'MyLib' => ['MyLib/Assets/{PodStoryBoard.storyboard,bgImage.png,acceptCall.png,endCall.png}']
    }
 
   # s.public_header_files = 'Pod/Classes/**/*.h'

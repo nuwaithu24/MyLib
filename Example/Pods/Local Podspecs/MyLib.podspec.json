@@ -23,7 +23,7 @@
   "resources": "MyLib/Assets/*",
   "resource_bundles": {
     "MyLib": [
-      "MyLib/Assets/{PodStoryBoard.storyboard,bgImage.png,acceptCall.png,endCall}"
+      "MyLib/Assets/{PodStoryBoard.storyboard,bgImage.png,acceptCall.png,endCall.png}"
     ]
   },
   "dependencies": {
