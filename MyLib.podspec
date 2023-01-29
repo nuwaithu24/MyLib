@@ -31,12 +31,17 @@ TODO: Add long description of the pod here.
   s.ios.deployment_target = '11.0'
 
   s.source_files = 'MyLib/Classes/**/*'
-  #s.resources = 'MyLib/Assets/*'
-  # s.resource_bundles = {
-  #   'MyLib' => ['MyLib/Assets/*.png']
-  # }
+  s.resources = 'MyLib/Assets/*'
+  s.resource_bundles = {
+     'MyLib' => ['MyLib/Assets/{PodStoryBoard.storyboard,bgImage.png,acceptCall.png,endCall}']
+   }
 
   # s.public_header_files = 'Pod/Classes/**/*.h'
    #s.frameworks = 'UIKit', 'MapKit'
    #s.dependency 'AFNetworking', '~> 2.3'
+   s.dependency 'SkyWay'
+   s.dependency 'Firebase'
+   s.dependency 'Firebase/Messaging'
+   s.dependency 'Firebase/Storage'
+   s.dependency 'Firebase/Firestore'
 end

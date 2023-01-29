@@ -19,6 +19,29 @@
   "platforms": {
     "ios": "11.0"
   },
-  "source_files": "MyLib/Classes",
+  "source_files": "MyLib/Classes/**/*",
+  "resources": "MyLib/Assets/*",
+  "resource_bundles": {
+    "MyLib": [
+      "MyLib/Assets/{PodStoryBoard.storyboard,bgImage.png,acceptCall.png,endCall}"
+    ]
+  },
+  "dependencies": {
+    "SkyWay": [
+
+    ],
+    "Firebase": [
+
+    ],
+    "Firebase/Messaging": [
+
+    ],
+    "Firebase/Storage": [
+
+    ],
+    "Firebase/Firestore": [
+
+    ]
+  },
   "swift_version": "5.0"
 }
